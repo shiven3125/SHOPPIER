@@ -1,0 +1,32 @@
+{
+  "name": "shoppiet",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/icons-material": "^5.14.0",
+    "@mui/material": "^5.14.0",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "aos": "^2.3.4",
+    "next": "13.4.10",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-player": "^2.12.0",
+    "react-simple-typewriter": "^5.0.1",
+    "react-spinners": "^0.13.8",
+    "styled-components": "^5.3.11",
+    "swiper": "^10.0.4"
+  }
+}

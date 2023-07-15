@@ -1,0 +1,190 @@
+@media (max-width: 576px) {
+  .all{
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+    background-color: transparent;
+    justify-content: space-around;
+    align-items: center;
+  
+  }
+  .seating{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: transparent;
+    padding: 2%;
+    box-sizing: border-box;
+  }
+  .images{
+    margin-top: 3%;
+  }
+  .txu{
+    font-size: small;
+    margin: 1.5%;
+    color:#383633;
+    font-family: 'Charmonman', cursive;
+  }
+  .tx{
+    font-size: x-small;
+    max-width: 50%;
+    margin: 1.5%;
+    color:#383633;
+    background-color: transparent;
+    font-family: 'Charmonman', cursive;
+  }
+}
+@media (min-width: 576px) {
+  .all{
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+    background-color: transparent;
+    justify-content: space-around;
+    align-items: center;
+  
+  }
+  .seating{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: transparent;
+    padding: 2%;
+    box-sizing: border-box;
+  }
+  .image1{
+    margin-top: 3%;
+  }
+  .txu{
+    font-size: large;
+    margin: 1.5%;
+    color:#383633;
+    font-family: 'Charmonman', cursive;
+  }
+  .tx{
+    font-size: small;
+    max-width: 50%;
+    margin: 1.5%;
+    color:#383633;
+    background-color: transparent;
+    font-family: 'Charmonman', cursive;
+  }
+}
+@media (min-width: 768px) {
+  .all{
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+    background-color: transparent;
+    justify-content: space-around;
+    align-items: center;
+  
+  }
+  .seating{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: transparent;
+    padding: 2%;
+    box-sizing: border-box;
+  }
+  .images{
+    margin-top: 3%;
+  }
+  .txu{
+    font-size:x-large;
+    margin: 1.5%;
+    color:#383633;
+    font-family: 'Charmonman', cursive;
+  }
+  .tx{
+    font-size: medium;
+    max-width: 50%;
+    margin: 1.5%;
+    color:#383633;
+    background-color: transparent;
+    font-family: 'Charmonman', cursive;
+  }
+}
+@media (min-width: 992px) {
+  .all{
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+    background-color: transparent;
+    justify-content: space-around;
+    align-items: center;
+  
+  }
+  .seating{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: transparent;
+    padding: 2%;
+    box-sizing: border-box;
+  }
+  .images{
+    margin-top: 3%;
+  }
+  .txu{
+    font-size: x-large;
+    margin: 1.5%;
+    color:#383633;
+    font-family: 'Charmonman', cursive;
+  }
+  .tx{
+    font-size: medium;
+    max-width: 50%;
+    margin: 1.5%;
+    color:#383633;
+    background-color: transparent;
+    font-family: 'Charmonman', cursive;
+  }
+}
+@media (min-width: 1200px) {
+  .all{
+    display: flex;
+    flex-direction: column;
+    gap: 10%;
+    background-color: transparent;
+    justify-content: space-around;
+    align-items: center;
+  
+  }
+  .seating{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: transparent;
+    padding: 2%;
+    box-sizing: border-box;
+  }
+  .images{
+    margin-top: 3%;
+  }
+  .txu{
+    font-size: xx-large;
+    margin: 1.5%;
+    color:#383633;
+    font-family: 'Charmonman', cursive;
+  }
+  .tx{
+    font-size: large;
+    max-width: 50%;
+    margin: 1.5%;
+    color:#383633;
+    background-color: transparent;
+    font-family: 'Charmonman', cursive;
+  }
+}

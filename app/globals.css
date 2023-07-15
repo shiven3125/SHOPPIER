@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Monoton&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Niconne&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Carter+One&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kumar+One+Outline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poltawski+Nowy:ital@1&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: white;
+}
+@keyframes fadeAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.ga{
+  animation-name: fadeAnimation;
+    animation-duration: 1s;
+    animation-iteration-count:1;
+    animation-timing-function: ease-in-out;
+  
+}
+
